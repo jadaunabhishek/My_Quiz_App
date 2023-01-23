@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="total_question" type="id" />
+    <item name="question" type="id" />
+    <item name="ans_A" type="id" />
+    <item name="ans_B" type="id" />
+    <item name="ans_C" type="id" />
+    <item name="ans_D" type="id" />
+    <item name="submit_btn" type="id" />
+</resources>
